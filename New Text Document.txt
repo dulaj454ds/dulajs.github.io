@@ -1,0 +1,5 @@
+/portfolio/
+├── index.html
+├── style.css
+└── images/
+    └── profile.jpg  <-- (oya danna photo ekak)
